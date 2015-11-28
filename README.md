@@ -1,4 +1,4 @@
-# Applications
+# Mac OS X Applications
 + 1Password
 + Adobe CS6 Master
 + Airfoil
@@ -68,3 +68,28 @@
 + XLD
 + xScope
 + Yubikey Personalization Tool
+  
+# Apple Mac Hardware
+  
+## Desktop
++ Mid 2010 iMac 27-inch (2560 x 1440)
++ Model iMac11,3
++ OS X 10.11.1 "El Capitan"
++ Intel Core i7 Quad-core 2.93 GHz
++ 20 GB 1333 MHz DDR3 (2x 8GB modules + 2x 2GB modules)
++ ATI Radeon HD 5750 1024 MB
++ 240 GB OWC Mercury Electra 3G SSD: System
++ 1 TB Western Digital 7200 RPM SATA HDD (Model WDC WD1001FALS-40Y6A0): User / Data
++ 27-inch Apple LED Cinema Display (2560 x 1440)
++ 2x Innovative iLift Monitor Arm (Model 7517-1500) w/ Apple VESA adapter
++ Full size wired keyboard
++ Magic Trackpad v1
+  
+## Laptop
++ Mid 2009 MacBook Pro 13-inch 
++ Model MacBookPro5,5
++ OS X 10.11.1 "El Capitan"
++ Intel Core 2 Duo Dual-core 2.26 GHz
++ 8 GB 1067 MHz DDR3 (2x 4 GB modules)
++ NVIDIA GeForce 9400M 256 MB (1280 x 800)
++ 256 GB Crucial M4 3G SSD
