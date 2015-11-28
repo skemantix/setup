@@ -87,6 +87,7 @@
 + MTS 2.1 satellite + sub speakers
 + FiiO E10 USB DAC Headphone Amplifier
 + AKG K•501 Hi-fi reference headphones
++ CyberPower 1500PFCLCD UPS
   
 ## Laptop
 + Mid 2009 MacBook Pro 13-inch 
@@ -96,3 +97,10 @@
 + 8 GB 1067 MHz DDR3 (2x 4 GB modules)
 + NVIDIA GeForce 9400M 256 MB (1280 x 800)
 + 256 GB Crucial M4 3G SSD
+
+# Network 
++ Apple AirPort Extreme 802.11n (5th Generation)
++ Apple AirPort Express 802.11n (1st Generation)
++ TRENDNet 16-Port Gigabit Switch
++ D-Link Powerline AC network adapters
++ APC Back-UPS 350ES UPS
