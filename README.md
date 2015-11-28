@@ -6,10 +6,11 @@
 + AppCleaner
 + Audacity
 + Audirvana Plus
-+ Battle.net
++ Battle.net 
 + Carbon Copy Cloner
 + ColorSchemer Studio
 + Dash
++ Diablo III
 + Disconnect Desktop
 + Disk Diag
 + Disk Sensei
@@ -42,7 +43,7 @@
 + OmniGraffle Professional
 + OmniOutliner
 + Pages
-+ Parallels Desktop
++ Parallels Desktop (Windows 7, Windows 8, Windows 10)
 + PhpStorm
 + Remote Desktop Connection
 + Sequel Pro
@@ -50,7 +51,7 @@
 + SketchUp
 + Skype
 + Slack
-+ Steam
++ Steam (Civilization IV)
 + Suitcase Fusion
 + TechTool Pro
 + TextMate
@@ -60,16 +61,14 @@
 + Transmission
 + Transmit
 + Unison
-+ VirtualBox
++ VirtualBox (Ubuntu 14.04, CentOS 6.7)
 + VLC
-+ Waltr
 + WiTopia
 + Xcode
 + XLD
 + xScope
-+ Yubikey Personalization Tool
   
-# Apple Mac Hardware
+# Mac Hardware
   
 ## Desktop
 + Mid 2010 iMac 27-inch (2560 x 1440)
@@ -84,6 +83,10 @@
 + 2x Innovative iLift Monitor Arm (Model 7517-1500) w/ Apple VESA adapter
 + Full size wired keyboard
 + Magic Trackpad v1
++ Lepai Stereo Class-T Digital Audio Amplifier
++ MTS 2.1 satellite + sub speakers
++ FiiO E10 USB DAC Headphone Amplifier
++ AKG K•501 Hi-fi reference headphones
   
 ## Laptop
 + Mid 2009 MacBook Pro 13-inch 
