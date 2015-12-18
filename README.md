@@ -1,27 +1,28 @@
 # Mac OS X Applications
-+ 1Password
-+ Adobe CS6 Master
++ **[1Password]()**
++ Adobe CS6 Master (**[Photoshop]()**)
 + Airfoil
 + AirServer
 + AppCleaner
 + Audacity
 + Audirvana Plus
 + Battle.net 
-+ Carbon Copy Cloner
++ **[Carbon Copy Cloner]()**
 + ColorSchemer Studio
++ Compass
 + Dash
 + Diablo III
 + Disconnect Desktop
 + Disk Diag
 + Disk Sensei
 + DiskWarrior
-+ Dropbox
-+ Fantastical
++ **[Dropbox]()**
++ **[Fantastical]()**
 + Final Cut Pro
 + Firefox
 + Flux
 + GitHub
-+ Google Chrome
++ **[Google Chrome]()**
 + Google Drive
 + Google Earth Pro
 + GPG Keychain
@@ -29,7 +30,7 @@
 + ImageOptim
 + Invisor
 + iStat Menus
-+ iTerm
++ **[iTerm]()**
 + join.me
 + JollysFastVNC
 + Keynote
@@ -38,7 +39,7 @@
 + Mactracker
 + MAMP Pro
 + Microsoft Office
-+ Mou
++ **[Mou]()**
 + Numbers
 + OmniGraffle Professional
 + OmniOutliner
@@ -48,25 +49,27 @@
 + Remote Desktop Connection
 + Sequel Pro
 + Shopify Theme
++ **[Sketch]()**
 + SketchUp
 + Skype
-+ Slack
++ **[Slack]()**
 + Steam (Civilization IV)
++ **[Sublime Text]()**
 + Suitcase Fusion
 + TechTool Pro
-+ TextMate
++ **[TextMate]()**
 + The Unarchiver
 + Things
-+ Tower
++ **[Tower]()**
 + Transmission
-+ Transmit
++ **[Transmit]()**
 + Unison
 + VirtualBox (Ubuntu 14.04, CentOS 6.7)
 + VLC
 + WiTopia
 + Xcode
 + XLD
-+ xScope
++ **[xScope]()**
   
 # Mac Hardware
   
