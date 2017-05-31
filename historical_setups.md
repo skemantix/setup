@@ -41,35 +41,65 @@ Fast forward a few years, and I was priveleged enough to get access to a Mac at 
 This was the first computer I owned. Purchased second-hand in my second year at University of Toronto at the UofT Bookstore Computer Shop, this was the first Apple laptop with a color display!  Weighing in at a whopping 7lbs and with a battery life of approx. 2hrs, it wasn't a laptop as much as a portable workstation.  This computer represents the beginning of my modern computing experience, as I used it in conjunction with a USRobotics Sportster 14.4 faxmodem to connect to the University of Toronto library network & the internet beyond.  The oldest email messages in my archives date back to when I used this machine to discover the power of connected computing.
 
 ### 1997: [Apple Performa 6400](https://en.wikipedia.org/wiki/Power_Macintosh_6400_series)
++ Sony Trinitron 17" Monitor
++ Apple Extended Keyboard
++ Kensington TurboMouse Trackball
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Performa_6400.jpg/250px-Performa_6400.jpg)  
 
-+ Sony Trinitron 17" Monitor
-+ Apple Keyboard
-+ Kensington ExpertMouse Trackball
 
 ### 2001: [Dell Optiplex GX240](http://www.engadget.com/products/dell/optiplex/gx240/specs/)
-![](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.M9eba44835bed128e2be56ee490654607o0%26pid%3D15.1&f=1)
+![](https://o.aolcdn.com/images/dims?quality=100&image_uri=http%3A%2F%2Fmedia.engadget.com%2Fimg%2Fproduct%2F17%2Fdm4%2Foptiplex-gx240-sh7.jpg&client=cbc79c14efcebee57402&signature=d5d3b338cd1ca348348b883b355ea28f2140d9d4)
+
 
 ### 2003: [Gateway 450XL](http://www.pcmag.com/article2/0,2817,1589856,00.asp)
 ![](http://www9.pcmag.com/media/images/69014-gateway-m450xl.jpg)
 
+
 ### 2004: [Apple Power Macintosh G4 (PCI Graphics)](http://www.apple-history.com/g4pci)
 ![](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Ftimenerdworld.files.wordpress.com%2F2014%2F01%2Fapple-mac-timeline-012.jpg%3Fw%3D374&f=1)
+
 
 ### 2005: [Apple PowerBook G4 12.1"](http://www.apple-history.com/pg4_12)
 ![](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww2.pcmag.com%2Fmedia%2Fimages%2F26519-apple-powerbook-g4-12-inch.jpg&f=1)
 
+
 ### 2006: [Apple PowerBook G4 12.1" DVI](http://www.apple-history.com/pg4_12_dvi)
+
 
 ### 2007: [Apple iMac 20-inch 2.4GHz Core 2 Duo (Mid 2007)](https://support.apple.com/kb/SP16?locale=en_US)
 ![](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.evertek.com%2Fimageshare%2FM%2F300x300%2FMA877LLA-R-unit.jpg&f=1)
 
+
 ### 2009: [Apple MacBook Pro 13-inch 2.26GHz Core 2 Duo](https://support.apple.com/kb/SP541?locale=en_US)
++ 8GB DDR3 RAM
++ 250GB Crucial M4 SSD
++ 1000GB Mushkin Reactor SSD
+
 ![](http://www9.pcmag.com/media/images/225788-apple-macbook-pro-13-inch-angle.jpg?width=630)
   
 
 ### 2010: [Apple Mac Mini 2.4Ghz Core 2 Duo(Mid 2010)](https://support.apple.com/kb/SP585?locale=en_US)
++ [Apple 27" Cinema Display LED](https://support.apple.com/kb/sp597?locale=en_US)
++ [APC Back-UPS ES 350 UPS](http://www.apc.com/shop/us/en/products/APC-Back-UPS-350-120V-without-auto-shutdown-software/P-BE350G)
++ [Kensington Expert Mouse Trackball](https://www.kensington.com/us/us/4493/k64325/expert-mouse-wired-trackball)
+
 ![](http://www.apple-history.com/images/models/mini_mid_2010.jpg)
 
+
 ### 2012: [Apple iMac 27-inch 2.97GHz Core i7 (Mid 2010)](https://support.apple.com/kb/SP695?locale=en_US)
-![](http://www.gadgetlite.com/wp-content/uploads/2009/10/new-apple-imac-2009.jpg)
++ [2x Innovative iLift - Flexible Monitor Arm](http://www.thehumansolution.com/ilift-lcd-monitor-arm-imac-g5-apple-cinema-display.html)
++ [CyberPower 1500PFCLCD UPS](https://www.cyberpowersystems.com/product/ups/cp1500pfclcd/)
++ Apple Magic Trackpad
++ FiiO E10 USB DAC
+
+![](http://www.apple-history.com/images/models/imac_late_09.jpg)
+
+
+### 2016: [Apple iMac 27-inch 3.4GHz Core i7 (Mid 2011)](https://support.apple.com/kb/SP689?locale=en_US)
++ 32GB DDR3 RAM
++ 2x 240GB Corsair Force LE SSD
++ 1000GB Mushkin Reactor SSD
++ [OWC Slim 6X Blu-ray + DVDRW/CDRW External](https://eshop.macsales.com/item/OWC/MRSSBDL6X/)
+
+![](http://www.apple-history.com/images/models/imac_mid_2011_2.jpg)
