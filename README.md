@@ -1,23 +1,19 @@
 # Mac OS X Applications
 + **[1Password]()**
-+ Adobe CS6 Master (**[Photoshop]()**)
++ Adobe CS6 Master (**[Photoshop]()**, **[Illustrator]()**)
 + Airfoil
 + AirServer
 + AppCleaner
 + Audacity
 + Audirvana Plus
-+ Battle.net 
 + **[Carbon Copy Cloner]()**
-+ ColorSchemer Studio
 + Compass
-+ Dash
-+ Diablo III
-+ Disconnect Desktop
++ Dash 4
 + Disk Diag
 + Disk Sensei
 + DiskWarrior
 + **[Dropbox]()**
-+ **[Fantastical]()**
++ **[Fantastical 2]()**
 + Final Cut Pro
 + Firefox
 + Flux
@@ -25,46 +21,48 @@
 + **[Google Chrome]()**
 + Google Drive
 + Google Earth Pro
-+ GPG Keychain
 + HandBrake
++ iGlasses
 + ImageOptim
 + Invisor
 + iStat Menus
-+ **[iTerm]()**
++ **[iTerm 2]()**
 + join.me
 + JollysFastVNC
++ Kaleidoscope 2
++ Keybase
 + Keynote
 + Knox
 + MacPar deLuxe
 + Mactracker
-+ MAMP Pro
++ MakeMKV
 + Microsoft Office
-+ **[Mou]()**
++ **[Marked 2]()**
 + Numbers
 + OmniGraffle Professional
 + OmniOutliner
 + Pages
-+ Parallels Desktop (Windows 7, Windows 8, Windows 10)
-+ PhpStorm
-+ Remote Desktop Connection
++ Parallels Desktop (Windows XP, Windows Vista, Windows 7, Windows 8, Windows 10)
++ PhoneView
++ Plex Media Player
++ RoboMongo
 + Sequel Pro
 + Shopify Theme
 + **[Sketch]()**
 + SketchUp
 + Skype
 + **[Slack]()**
-+ Steam (Civilization IV)
-+ **[Sublime Text]()**
-+ Suitcase Fusion
++ Steam (Civilization V)
++ **[Sublime Text 3]()**
++ RightFont
 + TechTool Pro
 + **[TextMate]()**
 + The Unarchiver
-+ Things
-+ **[Tower]()**
-+ Transmission
-+ **[Transmit]()**
-+ Unison
-+ VirtualBox (Ubuntu 14.04, CentOS 6.7)
++ Things 3
++ **[Tower 2]()**
++ **[Transmit 4]()**
++ SABnzbd
++ VirtualBox (Ubuntu 16.04, CentOS 6.7)
 + VLC
 + WiTopia
 + Xcode
