@@ -74,18 +74,20 @@
 # Mac Hardware
   
 ## Desktop
-+ Mid 2010 iMac 27-inch (2560 x 1440)
-+ Model iMac11,3
-+ OS X 10.11.1 "El Capitan"
-+ Intel Core i7 Quad-core 2.93 GHz
-+ 20 GB 1333 MHz DDR3 (2x 8GB modules + 2x 2GB modules)
-+ ATI Radeon HD 5750 1024 MB
-+ 240 GB OWC Mercury Electra 3G SSD: System
-+ 1 TB Western Digital 7200 RPM SATA HDD (Model WDC WD1001FALS-40Y6A0): User / Data
++ Mid 2011 iMac 27-inch (2560 x 1440)
++ Model iMac12,2
++ macOS 10.12.5 "Sierra"
++ Intel Core i7 Quad-core 3.4 GHz
++ 32 GB 1333 MHz DDR3 (4x 8GB modules)
++ ATI Radeon HD 6970M 2048 MB
++ 240 GB Corsair Force LE SSD: System
++ 240 GB Corsair Force LE SSD: Virtual Machines
++ 1000 GB Muskin Reactor SSD: Data
 + 27-inch Apple LED Cinema Display (2560 x 1440)
 + 2x Innovative iLift Monitor Arm (Model 7517-1500) w/ Apple VESA adapter
 + Full size wired keyboard
 + Magic Trackpad v1
++ Kensington Expert Mouse Trackball
 + Lepai Stereo Class-T Digital Audio Amplifier
 + MTS 2.1 satellite + sub speakers
 + FiiO E10 USB DAC Headphone Amplifier
@@ -99,7 +101,8 @@
 + Intel Core 2 Duo Dual-core 2.26 GHz
 + 8 GB 1067 MHz DDR3 (2x 4 GB modules)
 + NVIDIA GeForce 9400M 256 MB (1280 x 800)
-+ 256 GB Crucial M4 3G SSD
++ 250 GB Crucial M4 3G SSD
++ 1000 GB Mushkin Reactor 6G SSD
 
 # Network 
 + Apple AirPort Extreme 802.11n (5th Generation)
