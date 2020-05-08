@@ -103,3 +103,16 @@ This was the first computer I owned. Purchased second-hand in my second year at 
 + [OWC Slim 6X Blu-ray + DVDRW/CDRW External](https://eshop.macsales.com/item/OWC/MRSSBDL6X/)
 
 ![](http://www.apple-history.com/images/models/imac_mid_2011_2.jpg)
+
+
+### 2017: [Apple MacBook Pro 15-inch 2.6GHz Core i7 (Mid 2012)](https://support.apple.com/kb/SP694?locale=en_US)
++ 16GB DDR3 RAM
++ 240GB Samsung 850 PRO SSD
++ 1000GB Mushkin Reactor SSD
++ MOTU UltraLite MK3 Hybrid DAC / External sound card
+
+
+### 2019: [Apple MacBook Pro 13-Inch 2.9GHz Core i7 (Mid 2012)](https://support.apple.com/kb/SP658?locale=en_US)
++ 16GB DDR3 RAM
++ 240GB mSATA SSD
++ 1000GB Mushkin Reactor SSD
